@@ -7,7 +7,6 @@ The goal is to document my **DSA learning journey** and build strong problem-sol
 
 ## 📊 Progress Tracker
 - **Started:** [Month Year]
-- **Goal:** 100+ problems in the next 30 days  
 - **Current Count:** X problems solved ✅  
 
 ---
@@ -25,7 +24,7 @@ Solutions are organized by topic and difficulty:
 ---
 
 ## 🔥 Grind Mindset
-_"Discipline is remembering what you want most, not what you want now."_  
+_"Discipline is doing what you want most, not what you want now."_  
 This repo is part of my journey to master DSA and build the foundation for becoming an **HFT trader**.  
 
 ---
